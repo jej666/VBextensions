@@ -1,16 +1,3 @@
-﻿' ***********************************************************************
-' Assembly         : Infrastructure
-' Author           : jerome
-' Created          : 02-26-2013
-'
-' Last Modified By : jerome
-' Last Modified On : 06-04-2013
-' ***********************************************************************
-' <copyright file="DateTimeExtensions.vb" company="Info Santé">
-'     Info Santé. All rights reserved.
-' </copyright>
-' <summary></summary>
-' ***********************************************************************
 Imports System.Globalization
 Imports System.Runtime.CompilerServices
 
